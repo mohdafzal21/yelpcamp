@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73eb69e5-e94f-4773-8407-68d4e457eb4b" name="Default" comment="version 1">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/.jshintignore" afterPath="$PROJECT_DIR$/node_modules/rewire/.jshintignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/.jshintrc" afterPath="$PROJECT_DIR$/node_modules/rewire/.jshintrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/.npmignore" afterPath="$PROJECT_DIR$/node_modules/rewire/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/rewire/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/LICENSE" afterPath="$PROJECT_DIR$/node_modules/rewire/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/lib/__get__.js" afterPath="$PROJECT_DIR$/node_modules/rewire/lib/__get__.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/lib/detectStrictMode.js" afterPath="$PROJECT_DIR$/node_modules/rewire/lib/detectStrictMode.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/rewire/lib/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/testLib/debuggerModule.js" afterPath="$PROJECT_DIR$/node_modules/rewire/testLib/debuggerModule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/testLib/emptyModule.js" afterPath="$PROJECT_DIR$/node_modules/rewire/testLib/emptyModule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/testLib/module.coffee" afterPath="$PROJECT_DIR$/node_modules/rewire/testLib/module.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/testLib/moduleB.js" afterPath="$PROJECT_DIR$/node_modules/rewire/testLib/moduleB.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/testLib/node_modules/rewire/package.json" afterPath="$PROJECT_DIR$/node_modules/rewire/testLib/node_modules/rewire/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/testLib/someOtherModule.js" afterPath="$PROJECT_DIR$/node_modules/rewire/testLib/someOtherModule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/testLib/strictModule.js" afterPath="$PROJECT_DIR$/node_modules/rewire/testLib/strictModule.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/rewire/testLib/throwError.js" afterPath="$PROJECT_DIR$/node_modules/rewire/testLib/throwError.js" />
-    </list>
+    <list default="true" id="73eb69e5-e94f-4773-8407-68d4e457eb4b" name="Default" comment="version 1" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -92,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="14">
-              <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -155,7 +137,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="65" />
     <option name="y" value="24" />
     <option name="width" value="651" />
@@ -233,7 +215,7 @@
       <updated>1509365743129</updated>
       <workItem from="1509365744210" duration="11888000" />
       <workItem from="1509426126528" duration="885000" />
-      <workItem from="1509427054125" duration="396000" />
+      <workItem from="1509427054125" duration="988000" />
     </task>
     <task id="LOCAL-00001" summary="version 1">
       <created>1509427252100</created>
@@ -246,10 +228,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13169000" />
+    <option name="totallyTimeSpent" value="13761000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="7" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19092332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -524,7 +506,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14">
-          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
           <folding />
         </state>
       </provider>
