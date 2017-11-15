@@ -1,4 +1,4 @@
-<% include partials/header %>
+<% include ../partials/header %>
 
 
 <div class="container">
@@ -19,13 +19,16 @@
 
 <div class="row text-center" style="display:flex; flex-wrap: wrap;">
 
-    <% campgrounds.forEach(function (campground) { %>
+    <% campground.forEach(function (campground) { %>
     <div class="col-md-3 col-sm-6">
         <div class="thumbnail">
             <img src= "<%= campground.image %> ">
             <div class ="caption">
                 <h4> <%= campground.name%></h4>
             </div>
+            <p>
+                <a href="campgrounds/<%= campground.id%>" class = "btn btn-primary btn-large">More info</a>
+            </p>
         </div>
      </div>
     <% })%>
@@ -34,4 +37,4 @@
 
 </div>
 
-<% include partials/footer %>
+<% include ../partials/footer %>
